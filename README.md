@@ -167,3 +167,6 @@ F1-score:
 - Использована метрика F1-score.
 - Достигнуто требуемое качество F1 > 0.5.
 - Проект опубликован в публичном репозитории GitHub.
+
+Ссылка на github:
+https://github.com/DmitryTeb/hse_lab4_home_task_tebenkov_dm.git
