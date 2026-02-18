@@ -8,6 +8,8 @@
 
 Требование задания: F1 > 0.5.
 
+В задании встречается упоминание LinearRegression, однако для классификации и метрики F1 использована LogisticRegression как корректный аналог
+
 ---
 
 ## Данные
@@ -83,7 +85,8 @@ F1-score (класс 1): 0.545
 Confusion matrix:
 
 [[761 316]
-[146 277]]
+ [146 277]]
+
 
 
 Требование F1 > 0.5 выполнено.
@@ -150,12 +153,12 @@ F1-score:
 
 ## Структура репозитория
 
-├── HW_regression_TebenkovDM.ipynb
-├── README.md
-├── course_project_train.csv
-├── course_project_test.csv
-├── submit_sklearn.xls
-└── submit_custom.xls
+|| HW_regression_TebenkovDM.ipynb
+|| README.md
+|| course_project_train.csv
+|| course_project_test.csv
+|| submit_sklearn.xls
+|| submit_custom.xls
 
 
 ---
